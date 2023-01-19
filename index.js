@@ -6,9 +6,9 @@ let isWaiting = false;
 
 function getHeaderHtml() {
     return `<div class="header">
-            <img class="profile-icon" src="images/icon-profile.png">
-            <img class="logo" src="images/logo.png">
-            <img class="chat-icon" src="images/icon-chat.png">
+            <img class="profile-icon" src="/images/icon-profile.png">
+            <img class="logo" src="/images/logo.png">
+            <img class="chat-icon" src="/images/icon-chat.png">
         </div>
     `
 }

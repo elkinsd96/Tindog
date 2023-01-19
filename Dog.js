@@ -19,7 +19,7 @@ class Dog {
             <img class="badge-icon hidden" id="badge-swipe" src="/images/badge-nope.png">
         </div>
         <div class="profile">
-            <img class="profile-img" src="${avatar}">
+            <img class="profile-img" src="/${avatar}">
             <div class="profile-text">
                 <p class="profile-name">${name}, ${age}</p>
                 <p class="profile-summary">${bio}</p>
