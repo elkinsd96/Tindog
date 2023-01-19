@@ -4,7 +4,7 @@ Tindog Project from [Scrimba](https://scrimba.com/learn/frontend)'s Next-level J
 
 ## Project Link
 
-[Project Link]  Hosted using Netlify 
+[Project Link] https://tindog-scrimba-project.netlify.app/ Hosted using Netlify 
 
 ## Previews
 
