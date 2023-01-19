@@ -17,6 +17,7 @@ Profile that's been liked
 <img src="./images/dog2.png">
 
 Profile that's been swiped
+
 <img src="./images/dog3.png">
 
 End Screen when there's no more profiles 
